@@ -1,0 +1,11 @@
+pothole_large:
+training loss = 0.2235
+training accuracy = 0.9177
+validation loss = 0.1762
+validation accuracy = 0.9425
+
+pothole_small:
+training loss = 0.2070
+training accuracy = 0.9169
+validation loss = 0.2135
+validation accuracy = 0.9240
